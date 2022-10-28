@@ -1,23 +1,17 @@
-<h1 align="center">Hi, I'm Jay Vadhaiya</h1>
-<h3 align="center">Security Researcher</h3>
-<h3 align="center">VAPT Geek</h3>
-<h3 align="center">Network Pentester</h3>
+<h1 align="center">Hi, I'm Jay Vadhaiya so called sudo0x18</h1>
+<p align="center">Security Researcher - VAPT Geek - Network Pentester</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudo0x18&label=Profile%20Views&color=0e75b6&style=flat" alt="sudo0x18" /> </p>
 
 <p align="center" style="margin-top:30px;"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=sudo0x18" alt="sudo0x18"/></a> </p>
 
-- I’m a **Computer Applications Graduate**
-
-- I’m pursuing **Post Graduation as MSc Cyber Security**
+- M.Sc Cyber Security
 
 - I’m looking to collaborate on **Security Automation Tools**
 
-- I’m looking for help with **Security Scripting**
-
-- Know about my experiences [https://www.linkedin.com/in/jay-vadhaiya-3b74531b1/]
-
-- Intrested in VAPT, more in Network Penetration Testing
+- Connect me on ![Linkedin](https://www.linkedin.com/in/jay-vadhaiya-3b74531b1/)
+ 
+- Intrested in VAPT, Network Penetration Testing
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -27,12 +21,6 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-x:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<div align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo0x18&show_icons=true&locale=en" alt="jayvadhaiya" /></div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo0x18&show_icons=true&locale=en&layout=compact" alt="jayvadhaiya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo0x18&show_icons=true&locale=en" alt="jayvadhaiya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo0x18&" alt="jayvadhaiya" /></p>
+<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo0x18&" alt="jayvadhaiya" /></div>
