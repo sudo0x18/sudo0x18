@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jay Vadhaiya so called sudo0x18</h1>
+<h1 align="center">Hi, I'm Jay Vadhaiya</h1>
 <p align="center">Security Researcher - VAPT Geek - Network Pentester</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudo0x18&label=Profile%20Views&color=0e75b6&style=flat" alt="sudo0x18" /> </p>
